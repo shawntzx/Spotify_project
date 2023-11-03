@@ -29,7 +29,7 @@ Next, the pipeline is deployed on Azure. Data Factory is used to orchestrate the
 <!-- CONTACT -->
 ## Contact
 
-Zixiang Tang - shawntang126@gamil.com
+Zixiang(Shawn) Tang - shawntang126@gamil.com
 
 Project Link: [https://github.com/shawntzx/Spotify_project](https://github.com/shawntzx/Spotify_project)
 
