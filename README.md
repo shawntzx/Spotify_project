@@ -3,7 +3,7 @@
 
 Stage 1:
 
-* Develop an automated ETL pipeline locally using DAGs and Airflow
+* Develop an automated ETL pipeline locally using DAGs and Airflow to extract user play history
 * Deploy the pipeline on Azure using Data Factory with Azure Databricks and FunctionApp
 
 Stage 2:
