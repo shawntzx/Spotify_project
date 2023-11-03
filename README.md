@@ -22,7 +22,7 @@ Next, the pipeline is deployed on Azure. Data Factory is used to orchestrate the
 
 <!-- Dependencies -->
 
-## Dependencies can be installed with environment.yml
+### Dependencies can be installed with environment.yml
 
 
 
