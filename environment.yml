@@ -1,0 +1,12 @@
+name: ETL
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+
+  - pip:
+      - apache-airflow
+      - pandas
+      - python-dotenv
+      - spotipy
+      - pyarrow
